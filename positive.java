@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class posnegzer
+class positive
 {
     public static void main(String[]args)
     
