@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class GUVI
+public class GUVI
 {
     public static void main(String args[])
     {
